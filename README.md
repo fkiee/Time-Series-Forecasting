@@ -47,4 +47,4 @@ The dataset for this project is sourced from Kaggle, titled **Store Sales - Time
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Store-Sales-Time-Series-Forecasting.git
+   git clone https://github.com/fkiee/Store-Sales-Time-Series-Forecasting.git
